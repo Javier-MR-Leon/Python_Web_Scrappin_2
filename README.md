@@ -1,11 +1,6 @@
-# CARACTERÍSTICAS PARA GANAR UN OSCAR A LA MEJOR PELÍCULA INTERNACIONAL - Practica 2 del curso Tipología y ciclo de vida de los datos
+# CARACTERÍSTICAS PARA GANAR UN OSCAR A LA MEJOR PELÍCULA INTERNACIONAL
 
 Este repositorio contiene varios scripts en Python en la carpeta /resource que extrae información mediante web_scraping sobre películas ganadoras del Óscar a la mejor película Internacional (1956 - 2023) desde Wikipedia, limpia este dataset y realiza diferentes modelos y pruebas estadísticas para su análisis (modelos supervisados, no supervisados y las pruebas de contraste de hpótesis) en el intento de entender que hace que una película nominada a los Oscars sea la premiada. Los resultados se comentan en el PDF también entregado en la práctica y los archivos .CSV se encuentran ubicados en la carpeta /dataset. 
-
-## Integrantes
-
-- **Javier Martínes Rodríguez**
-- **Joshua David Triana**
 
 ## Archivos del repositorio
 
