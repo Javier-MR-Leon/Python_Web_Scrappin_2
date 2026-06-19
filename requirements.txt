@@ -1,0 +1,13 @@
+scikit-learn
+matplotlib
+unidecode
+requests
+catboost
+sklearn
+pandas
+numpy
+scipy
+bs4
+csv
+re
+os 
